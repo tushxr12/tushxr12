@@ -32,11 +32,4 @@ I enjoy designing scalable, efficient, and maintainable solutions — and I'm al
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/tushxr12)
-- ✉️ [Email](mailto:tushxr.work@gmail.com)
-
----
-
 Thanks for stopping by! 🚀
