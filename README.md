@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tushar
 
-### 💻 Software Engineer @ Ellucian | Full-Stack Developer
+### 💻 Software Engineer | Full-Stack Developer
 
 I'm a passionate software engineer with hands-on experience building full-stack applications, primarily within the Microsoft ecosystem.  
 I enjoy designing scalable, efficient, and maintainable solutions — and I'm always exploring technologies that push the web forward.
