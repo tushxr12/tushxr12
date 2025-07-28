@@ -24,7 +24,7 @@ I enjoy designing scalable, efficient, and maintainable solutions — and I'm al
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Modern frontend development with **React.js** and **Next.js**
 - Building full-stack apps with a focus on performance and UX
